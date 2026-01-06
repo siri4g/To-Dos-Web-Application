@@ -1,1 +1,3 @@
-# To-Dos-Web-Application
+# 📝 Todo List Web App – README
+
+This project is a clean, responsive **Todo List web interface** styled purely with CSS, designed to demonstrate modern UI fundamentals—clarity, accessibility, and minimalism. The stylesheet defines a full-page layout with Google Fonts, structured sections for task creation and listing, interactive elements like checkboxes and delete icons, and visual feedback for completed tasks using strike-through styling. It’s ideal as a frontend foundation for a productivity app or as a learning artifact to understand layout composition, typography hierarchy, and component-based CSS design. Simply link the CSS file to your HTML to activate the design system and extend it with JavaScript for full functionality. 
